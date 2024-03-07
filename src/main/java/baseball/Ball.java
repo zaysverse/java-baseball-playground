@@ -1,7 +1,5 @@
 package baseball;
 
-import java.util.Objects;
-
 public class Ball {
     private final int position;
     private final int ballNo;
